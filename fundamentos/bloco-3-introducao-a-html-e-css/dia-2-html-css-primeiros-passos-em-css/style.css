@@ -1,0 +1,34 @@
+h1 {   font-size: 65px;
+    background-color: orange;
+    font-family: sans-serif;
+    text-decoration: underline;
+}
+body {
+    font-size: 16px;
+}
+
+p {
+    font-weight: 600;
+    font-size: 3em;
+    font-style: italic;
+    text-align: left;
+}
+
+ul {
+    background-color: blue;
+}
+.color-modify {
+    background-color: green;
+}
+
+#yellow { 
+    background-color: yellow;
+}
+
+#red {
+    background-color: red;
+}
+
+#brown {
+    background-color: brown;
+}
