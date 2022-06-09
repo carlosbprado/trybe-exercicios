@@ -1,0 +1,14 @@
+h1, p {
+    text-align: center;
+}
+
+.ordenada:hover {
+    background-color: blue;
+}
+.ordenada:active {
+    color: white;
+}
+
+li {
+    list-style: none;
+}
