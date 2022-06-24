@@ -11,3 +11,5 @@ let info = {
 // Bem-vinda, Margarida
 
 console.log('Bem vida, ' + info.personagem);
+
+//concluido
