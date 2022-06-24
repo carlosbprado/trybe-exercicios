@@ -15,3 +15,4 @@ let info = {
 info.recorrente = 'sim';
  
 console.log(info);
+//concluido
