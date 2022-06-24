@@ -25,3 +25,4 @@ if(key === 'recorrente' && info[key] === 'sim' && info2[key] === 'sim'){
 }
 
 }
+//concluido
