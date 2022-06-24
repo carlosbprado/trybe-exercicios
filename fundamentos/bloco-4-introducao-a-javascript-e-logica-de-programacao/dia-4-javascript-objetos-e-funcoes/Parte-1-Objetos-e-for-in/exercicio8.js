@@ -31,3 +31,5 @@ let leitor = {
         // RESOLUCAO FINAL
 
 console.log(leitor.nome + ' tem ' + leitor.livrosFavoritos.length + ' livros favoritos');
+
+//concluido
