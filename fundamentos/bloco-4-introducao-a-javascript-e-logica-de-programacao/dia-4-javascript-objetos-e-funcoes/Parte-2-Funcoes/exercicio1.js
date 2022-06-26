@@ -4,3 +4,15 @@
 // Retorno esperado: true
 // verificaPalindrome('desenvolvimento');
 // Retorno esperado: false
+
+function verificaPalindrome(palavra){
+    for(a in palavra){
+        if(palavra[a] != palavra[(palavra.length - 1) - a]){
+            return false;
+        }
+    }
+    return true;
+}
+
+console.log(verificaPalindrome('arara'));
+console.log(verificaPalindrome('desenvolvimento'));
