@@ -64,6 +64,10 @@
      document.getElementsByTagName('p')[0].innerText = document.getElementsByTagName('p')[0].innerText.toUpperCase();
       
       //  Crie uma função que exiba o conteúdo de todas as tags <p> no console.
+        const exibeTag = document.getElementsByTagName('p');
+        for(let i = 0; i < exibeTag.length; i += 1){
+            console.log(exibeTag[i].innerText);
+        }
     </script>
   </body>
 </html>
