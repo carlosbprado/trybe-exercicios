@@ -83,8 +83,9 @@
   }
   }
 
-  @media screen and (min-width: 1196px) {
+  @media screen and (min-width: 1196px){
     body{
+      max-width: 1200px;
       background-color: lightcoral;
       margin: 20px;
     }
