@@ -28,6 +28,7 @@
   
   img {
       max-width: 100%;
+      padding: 10px;
   }
   
   main {
@@ -44,4 +45,5 @@
   
   figcaption {
     font-size: 1.1em;
+    /* padding: 10px; */
   }
