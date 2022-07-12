@@ -70,10 +70,36 @@
   }
 
   h1 {
-    font-size: 2em;
+    font-size: 2.3em;
+  }
+
+  h2{
+    font-size: 1.8em;
+  }
+
+  figcaption {
+    font-size: 1.3em;
+   
   }
   }
 
   @media screen and (min-width: 1196px) {
-    
+    body{
+      background-color: lightcoral;
+    }
+    article {
+      font-size: 28px;
+    }
+
+    h1 {
+      font-size: 2.5em;
+    }
+    h2 {
+      font-size: 2em;
+    }
+    figcaption {
+      font-size: 1.5em;
+     
+    }
+
   }
