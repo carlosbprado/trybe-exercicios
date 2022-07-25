@@ -66,10 +66,10 @@ const books = [
   
   // Adicione o código do exercício aqui:
 
-  const fantasyOrScienceFiction = () => {
+  const novoArray = () => {
     const livrosFiltrados = books.filter((book) => (
       book.genre === 'Fantasia' || book.genre === 'Ficção Científica'
     ));
     return livrosFiltrados
   }
-  console.log(fantasyOrScienceFiction());
+  console.log(novoArray());
