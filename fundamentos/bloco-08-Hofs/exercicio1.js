@@ -11,3 +11,6 @@ const arrays = [
    return arrays.reduce((acc, curr) => acc.concat(curr), [])
  }
 console.log( flatten());
+
+// concat cria um novo array unindo todos os elementos que foram passados ​​como parâmetro, na ordem dada, para cada argumento e seus elementos (se o elemento passado para um array).
+//https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/concat
